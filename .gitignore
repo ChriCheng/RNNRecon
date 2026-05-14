@@ -3,3 +3,6 @@ IMG_2885.png
 __pycache__/
 *.pyc
 outputs/
+data/
+embeddings/
+results/*
